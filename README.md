@@ -11,8 +11,7 @@
 />
 
 </div>
-
-- - -
+---
 
 <div align="center">
 
@@ -60,7 +59,6 @@
 <div align="center">
 
 &nbsp;
-
 ---
 
 &nbsp;
@@ -82,7 +80,6 @@
 
 &nbsp;
 &nbsp;
-
 ---
 
 &nbsp;
@@ -108,7 +105,6 @@
 
 &nbsp;
 &nbsp;
-
 ---
 
 &nbsp;
