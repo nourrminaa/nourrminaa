@@ -120,7 +120,7 @@
 
 &nbsp;
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=11&duration=3000&pause=3000&color=666666&center=true&vCenter=true&repeat=false&width=200&height=18&lines=building+using+coffee+and+tears" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=11&duration=3000&pause=3000&color=666666&center=true&vCenter=true&repeat=false&width=200&height=18&lines=building+using+coffee+and+tears☕️" />
 
 &nbsp;
 &nbsp;
