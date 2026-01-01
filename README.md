@@ -1,14 +1,14 @@
 <div align="center">
 
-&nbsp;
-&nbsp;
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=42&duration=4000&pause=3000&color=FFD4E0&center=true&vCenter=true&repeat=false&width=360&height=60&lines=Nour+Mina"
+  alt="Name"
+/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=42&duration=4000&pause=3000&color=FFD4E0&center=true&vCenter=true&repeat=false&random=false&width=320&height=60&lines=Nour+Mina" alt="Name" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=14&duration=4000&pause=3000&color=888888&center=true&vCenter=true&repeat=false&random=false&width=280&height=25&lines=42+Beirut+%26+CCE+Student" alt="Subtitle" />
-
-&nbsp;
-&nbsp;
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=14&duration=4000&pause=3000&color=888888&center=true&vCenter=true&repeat=false&width=360&height=25&lines=42+Beirut+%26+CCE+Student"
+  alt="Subtitle"
+/>
 
 </div>
 
