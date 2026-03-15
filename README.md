@@ -28,7 +28,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=14&duration=3000&pause=3000&color=FFD4E0&vCenter=true&repeat=false&width=100&height=20&lines=Education" />
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=13&duration=3000&pause=3000&color=888888&vCenter=true&repeat=false&width=360&height=20&lines=UA%E2%80%A2+Software+Eng." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=13&duration=3000&pause=3000&color=888888&vCenter=true&repeat=false&width=360&height=20&lines=UA+%E2%80%A2+Software+Eng." />
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=13&duration=3000&pause=3000&color=888888&vCenter=true&repeat=false&width=200&height=20&lines=42+Beirut+%E2%80%A2+Level+3" />
 
