@@ -14,8 +14,6 @@
 
 &nbsp;
 
----
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -184,11 +182,9 @@
 <img src="https://img.shields.io/badge/Jupyter-1e1e2e?style=for-the-badge&logo=jupyter&logoColor=FFD4E0" />
 
 &nbsp;
-&nbsp;
 
 ---
 
-&nbsp;
 &nbsp;
 
 <img
@@ -197,21 +193,17 @@
 />
 
 &nbsp;
-&nbsp;
 
 ---
 
-&nbsp;
 &nbsp;
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourrminaa&bg_color=00000000&color=888888&line=FFD4E0&point=FFD4E0&area=true&hide_border=true&area_color=FFD4E0" width="90%"/>
 
 &nbsp;
-&nbsp;
 
 ---
 
-&nbsp;
 &nbsp;
 
 <a href="https://linkedin.com/in/nourmina"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=12&duration=3000&pause=3000&color=888888&vCenter=true&repeat=false&width=60&height=18&lines=LinkedIn" /></a>
