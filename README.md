@@ -187,17 +187,6 @@
 
 &nbsp;
 
-<img
-  src="https://nirzak-streak-stats.vercel.app/?user=nourrminaa&hide_border=true&background=00000000&ring=FFD4E0&fire=FFD4E0&currStreakLabel=FFD4E0&sideLabels=999999&dates=777777"
-  width="45%"
-/>
-
-&nbsp;
-
----
-
-&nbsp;
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourrminaa&bg_color=00000000&color=888888&line=FFD4E0&point=FFD4E0&area=true&hide_border=true&area_color=FFD4E0" width="90%"/>
 
 &nbsp;
