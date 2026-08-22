@@ -1,5 +1,8 @@
+&nbsp;
+&nbsp;
+
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=900&size=52&duration=1&pause=3000&color=F598FD&center=true&vCenter=true&repeat=false&width=400&height=70&lines=Hi%2C+I'm+Nour" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=900&size=42&duration=1&pause=3000&color=F598FD&center=true&vCenter=true&repeat=false&width=400&height=70&lines=Hi%2C+I'm+Nour" />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nourrminaa&style=for-the-badge&color=F598FD&label=PROFILE+VIEWS"/>
@@ -14,14 +17,19 @@
 
 ```python
 #!/usr/bin/python
+
+
 class SoftwareEngineer:
+
     def __init__(self):
         self.name = "Nour Mina"
         self.role = "Software Engineering"
         self.student = True
         self.language_spoken = ["ar_LEB", "en_US", "fr_FR"]
+
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
+
 me = SoftwareEngineer()
 me.say_hi()
 ```
@@ -35,28 +43,30 @@ me.say_hi()
 </tr>
 </table>
 
+&nbsp;
+&nbsp;
+
 <div align="center">
-
-&nbsp;
-
-&nbsp;
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourrminaa&bg_color=00000000&color=888888&line=F598FD&point=F598FD&area=true&hide_border=true&area_color=F598FD" width="90%"/>
 
 &nbsp;
-
+&nbsp;
+---
+&nbsp;
 &nbsp;
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg"> <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg"> <img src="./profile-3d-contrib/profile-gitblock.svg" width="90%" alt="3D contribution graph"/> </picture>
 
 &nbsp;
-
+&nbsp;
+---
+&nbsp;
 &nbsp;
 
 <a href="https://linkedin.com/in/nourmina"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=12&duration=1&pause=3000&color=F598FD&vCenter=true&repeat=false&width=60&height=18&lines=LinkedIn" /></a>
-&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=12&duration=1&pause=3000&color=ffffff&vCenter=true&repeat=false&width=16&height=18&lines=%C2%B7" />&nbsp;
+&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=12&duration=1&pause=3000&color=F598FD&vCenter=true&repeat=false&width=16&height=18&lines=%C2%B7" />&nbsp;
 <a href="mailto:nourmina005@gmail.com"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=12&duration=1&pause=3000&color=F598FD&vCenter=true&repeat=false&width=40&height=18&lines=Email" /></a>
-&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=12&duration=1&pause=3000&color=ffffff&vCenter=true&repeat=false&width=16&height=18&lines=%C2%B7" />&nbsp;
+&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=12&duration=1&pause=3000&color=F598FD&vCenter=true&repeat=false&width=16&height=18&lines=%C2%B7" />&nbsp;
 <a href="https://discord.gg/FfF3pZQY"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=12&duration=1&pause=3000&color=F598FD&vCenter=true&repeat=false&width=50&height=18&lines=Discord" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=11&duration=1&pause=3000&color=F598FD&center=true&vCenter=true&repeat=false&width=200&height=18&lines=building+using+coffee+and+tears☕️" />
