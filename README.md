@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=900&size=52&duration=1&pause=3000&color=F598FD&center=true&vCenter=true&repeat=false&width=400&height=70&lines=Nour+Mina" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=900&size=52&duration=1&pause=3000&color=F598FD&center=true&vCenter=true&repeat=false&width=400&height=70&lines=Hi%2C+I'm+Nour" />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nourrminaa&style=for-the-badge&color=F598FD&label=PROFILE+VIEWS"/>
@@ -18,6 +18,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Nour Mina"
         self.role = "Software Engineering"
+        self.student = True
         self.language_spoken = ["ar_LEB", "en_US", "fr_FR"]
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
