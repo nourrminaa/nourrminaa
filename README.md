@@ -76,7 +76,7 @@ me.say_hi()
 
 <div align="center">
 <a href="https://github.com/nourrminaa?tab=repositories">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=20&duration=1&pause=3000&color=F598FD&center=true&vCenter=true&repeat=false&width=240&height=30&lines=checkout+my+repos!+↓" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=300&size=18&duration=1&pause=3000&color=F598FD&center=true&vCenter=true&repeat=false&width=240&height=30&lines=checkout+my+repos!+↓" />
 </a>
 </div>
 
