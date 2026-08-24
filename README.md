@@ -26,6 +26,7 @@ class SoftwareEngineer:
         self.role = "Software Engineering"
         self.student = True
         self.language_spoken = ["ar_LEB", "en_US", "fr_FR"]
+        self.country = "Lebanon"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
