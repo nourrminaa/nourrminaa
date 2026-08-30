@@ -48,7 +48,7 @@ me.say_hi()
 &nbsp;
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nourrminaa&bg_color=00000000&color=888888&line=F598FD&point=F598FD&area=true&hide_border=true&area_color=F598FD" width="90%"/>
+<img src="https://github-readme-activity-graph-nourrminaa.vercel.app/graph?username=nourrminaa&bg_color=00000000&color=888888&line=F598FD&point=F598FD&area=true&hide_border=true&area_color=F598FD" width="90%"/>
 
 &nbsp;
 &nbsp;
