@@ -4,10 +4,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=900&size=42&duration=1&pause=3000&color=F598FD&center=true&vCenter=true&repeat=false&width=400&height=70&lines=Hi!+I'm+Nour" />
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nourrminaa&style=for-the-badge&color=F598FD&label=PROFILE+VIEWS"/>
-
-</div>
 
 &nbsp;
 
